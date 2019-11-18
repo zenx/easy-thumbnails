@@ -40,7 +40,7 @@ def read_files(*filenames):
 setup(
     name='easy-thumbnails',
     version=easy_thumbnails.get_version(),
-    url='http://github.com/SmileyChris/easy-thumbnails',
+    url='http://github.com/zenx/easy-thumbnails',
     description='Easy thumbnails for Django',
     long_description=read_files('README.rst', 'CHANGES.rst'),
     author='Chris Beaven',
